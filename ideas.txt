@@ -1,0 +1,17 @@
+Onslaught mode/mutator
+- checkpoint, but the enemies have infinite respawns. Have to push them back, no way to simply clear them off
+
+Clary's varied-pace mode - some objectives are hard-fought with bots that push and respawn infinitely. Then after some there is a lull to recover
+
+Survival-style spawning in checkpoint?
+
+Hunt mode - investigate the existing mod, or make a new one
+
+Operation mode?
+
+First-aid packs!
+
+Try out AIModifier
+- keep improvedai for heli-shooting? bot names?
+
+
