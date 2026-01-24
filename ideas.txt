@@ -14,4 +14,18 @@ First-aid packs!
 Try out AIModifier
 - keep improvedai for heli-shooting? bot names?
 
+Fix the tanks
 
+
+1.38.0
+- Sniper Class equipment weapons are now fully customisable apart from weapon skins. Long and short variants removed. bUseLoadoutHudFix must be set to True for this to work
+
+- Preferred class should now be shown correctly on the end of round/match screens, controlled with bUsePreferredClassFix
+
+- Full-Auto Conversion upgrade should no longer always reset to full-auto when resupplying
+
+- Mosin PU4x scope iron sight model FOV fixed, correct cycling animations are used when aiming
+
+- General pass for bolt-action weapons using the wrong bolt cycle animation when scoped in
+
+- Fixed some incorrect squad layouts in the regular and OldFire theatre assets (thanks Muato!)
