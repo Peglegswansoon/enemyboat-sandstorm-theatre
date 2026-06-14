@@ -16,16 +16,22 @@ Try out AIModifier
 
 Fix the tanks
 
+TODO List
 
-1.38.0
-- Sniper Class equipment weapons are now fully customisable apart from weapon skins. Long and short variants removed. bUseLoadoutHudFix must be set to True for this to work
+- Fix pistol suppressors/compensators etc attaching to the wrong parts of the gun
 
-- Preferred class should now be shown correctly on the end of round/match screens, controlled with bUsePreferredClassFix
+- Fix M1 C scope irons model FOV
 
-- Full-Auto Conversion upgrade should no longer always reset to full-auto when resupplying
+- Fix H21 reload animations missing notifies
 
-- Mosin PU4x scope iron sight model FOV fixed, correct cycling animations are used when aiming
+- Fix M250 having too much ammo with no carrier and default mags, at least for Survival
 
-- General pass for bolt-action weapons using the wrong bolt cycle animation when scoped in
+- Fix dirty legs on Security bots (maybe players too?) - use a "custom" cosmetic
 
-- Fixed some incorrect squad layouts in the regular and OldFire theatre assets (thanks Muato!)
+- Fix drum FG reloads on the Alpha AK - re-do all foregrips??
+
+- Fix P90 to make the long barrel lore-accurate - use the "attachment offset" feature to fix muzzle attachments? Does not seem to work, at least for optics...
+
+- Move sights back on the M250
+
+- Normal optics for the M16A2?Can use the C79 attachment socket with the AR7090 rail, it almost works, may need some adjustment
