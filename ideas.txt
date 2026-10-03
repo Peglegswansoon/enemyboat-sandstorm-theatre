@@ -34,4 +34,4 @@ TODO List
 
 - Move sights back on the M250
 
-- Normal optics for the M16A2?Can use the C79 attachment socket with the AR7090 rail, it almost works, may need some adjustment
+- Normal optics for the M16A2? Can use the C79 attachment socket with the AR7090 rail, it almost works, may need some adjustment
